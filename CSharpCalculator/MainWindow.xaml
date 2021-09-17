@@ -220,7 +220,7 @@
             Background="DarkBlue"
             Foreground="Wheat"
             Margin="1,1,1,1"
-                Click="Button_ClickResult"
+                Click="Button_ClickSolution"
                 Grid.Column="4"
                 Grid.Row="4"
                 FontSize="48" 
